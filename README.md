@@ -27,7 +27,8 @@ This commands includes
 <BR>
 ##CODE
 CLIENT
-```import socket 
+```
+import socket 
 from pythonping import ping 
 s=socket.socket() 
 s.bind(('localhost',8000)) 
