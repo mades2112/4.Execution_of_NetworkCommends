@@ -62,14 +62,17 @@ print(result,unans)
 ```
 ## Output
 CLIENT
+
 ![Screenshot 2024-04-24 154447](https://github.com/mades2112/4.Execution_of_NetworkCommends/assets/152461996/238c9283-2f77-4bc3-8c9a-e5e04812e49d)
 
 
 SERVER
+
 ![Screenshot 2024-04-24 154505](https://github.com/mades2112/4.Execution_of_NetworkCommends/assets/152461996/4b7a9d02-cee4-4c56-827c-99255e872494)
 
 
 TRACERT
+
 ![Screenshot 2024-04-24 060634](https://github.com/mades2112/4.Execution_of_NetworkCommends/assets/152461996/a1ee8b77-f64c-4f02-b376-5ae61da26a91)
 
 
